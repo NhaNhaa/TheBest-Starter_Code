@@ -1,4 +1,4 @@
-def is_best(n):
+def is_prime(n):
     # TODO: implement best check
     if n < 2:
         return False
